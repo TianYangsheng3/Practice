@@ -1,3 +1,5 @@
 测试pull request的图标代表是什么意思
 紫色代表其他人pull的被repo的owner接受了？
+
 红色代表其他人pull的没有被repo的owner接受，然后关闭了？
+经测试，好像不是这样子？难道是提pull的用户主动关闭了？
